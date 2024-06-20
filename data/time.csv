@@ -1,0 +1,101 @@
+Hardware,Lexer,File,Time (ms)
+amd,chibicc,gcc,10
+amd,Mateuszd6/simd-lexing,gcc,15
+amd,gcc,gcc,12
+amd,chibicc,oggenc,8
+amd,Mateuszd6/simd-lexing,oggenc,13
+amd,gcc,oggenc,10
+amd,simdlex (this paper),gzip,5
+amd,Mateuszd6/simd-lexing,gzip,9
+amd,gcc,gzip,7
+amd,simdlex (this paper),gcc,6
+amd,Mateuszd6/simd-lexing,gcc,11
+amd,gcc,gcc,8
+amd,simdlex (this paper),oggenc,7
+amd,Mateuszd6/simd-lexing,oggenc,12
+amd,gcc,oggenc,9
+amd,simdlex (this paper),gzip,4
+amd,Mateuszd6/simd-lexing,gzip,7
+amd,gcc,gzip,5
+amd,simdlex (this paper),example4,9
+amd,Mateuszd6/simd-lexing,example4,17
+amd,gcc,example4,11
+amd,simdlex (this paper),gcc,10
+amd,Mateuszd6/simd-lexing,gcc,15
+amd,chibicc,gcc,12
+amd,simdlex (this paper),oggenc,8
+amd,Mateuszd6/simd-lexing,oggenc,13
+amd,gcc,oggenc,10
+amd,simdlex (this paper),gzip,5
+amd,Mateuszd6/simd-lexing,gzip,9
+amd,gcc,gzip,7
+amd,simdlex (this paper),gcc,6
+amd,Mateuszd6/simd-lexing,gcc,11
+amd,gcc,gcc,8
+amd,simdlex (this paper),oggenc,7
+amd,Mateuszd6/simd-lexing,oggenc,12
+amd,gcc,oggenc,9
+amd,simdlex (this paper),gzip,4
+amd,Mateuszd6/simd-lexing,gzip,7
+amd,gcc,gzip,5
+amd,simdlex (this paper),oggenc,9
+amd,Mateuszd6/simd-lexing,oggenc,16
+amd,gcc,oggenc,13
+amd,simdlex (this paper),gzip,6
+amd,Mateuszd6/simd-lexing,gzip,11
+amd,gcc,gzip,8
+amd,simdlex (this paper),gcc,7
+amd,Mateuszd6/simd-lexing,gcc,12
+amd,gcc,gcc,10
+amd,simdlex (this paper),oggenc,8
+amd,Mateuszd6/simd-lexing,oggenc,14
+amd,gcc,oggenc,11
+amd,simdlex (this paper),gzip,5
+amd,Mateuszd6/simd-lexing,gzip,9
+amd,gcc,gzip,7
+amd,gcc,gzip,7
+amd,simdlex (this paper),gcc,6
+amd,Mateuszd6/simd-lexing,gcc,11
+amd,gcc,gcc,8
+amd,simdlex (this paper),oggenc,7
+amd,Mateuszd6/simd-lexing,oggenc,12
+amd,gcc,oggenc,9
+amd,simdlex (this paper),gzip,4
+amd,Mateuszd6/simd-lexing,gzip,7
+amd,gcc,gzip,5
+amd,simdlex (this paper),example4,9
+amd,Mateuszd6/simd-lexing,example4,17
+amd,gcc,example4,11
+amd,simdlex (this paper),gcc,10
+amd,Mateuszd6/simd-lexing,gcc,15
+amd,chibicc,gcc,12
+amd,simdlex (this paper),oggenc,8
+amd,Mateuszd6/simd-lexing,oggenc,13
+amd,gcc,oggenc,10
+amd,chibicc,gzip,5
+amd,Mateuszd6/simd-lexing,gzip,9
+amd,gcc,gzip,7
+amd,chibicc,gcc,6
+amd,Mateuszd6/simd-lexing,gcc,11
+amd,gcc,gcc,8
+amd,chibicc,oggenc,7
+amd,Mateuszd6/simd-lexing,oggenc,12
+amd,gcc,oggenc,9
+amd,chibicc,gzip,4
+amd,Mateuszd6/simd-lexing,gzip,7
+amd,gcc,gzip,5
+amd,chibicc,oggenc,9
+amd,Mateuszd6/simd-lexing,oggenc,16
+amd,gcc,oggenc,13
+amd,chibicc,gzip,6
+amd,Mateuszd6/simd-lexing,gzip,11
+amd,gcc,gzip,8
+amd,chibicc,gcc,7
+amd,Mateuszd6/simd-lexing,gcc,12
+amd,gcc,gcc,10
+amd,chibicc,oggenc,8
+amd,Mateuszd6/simd-lexing,oggenc,14
+amd,gcc,oggenc,11
+amd,chibicc,gzip,5
+amd,Mateuszd6/simd-lexing,gzip,9
+amd,gcc,gzip,7
